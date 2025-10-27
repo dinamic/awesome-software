@@ -89,6 +89,10 @@
 
 - [IINA](https://github.com/iina/iina) - Modern media player for macOS.
 
+### Photo Management
+
+- [PhotoPrism](https://github.com/photoprism/photoprism) - AI-powered photo management application with face recognition and automatic tagging.
+
 ### Media Servers
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free software media system that puts you in control of your media.
