@@ -83,6 +83,10 @@
 
 - [n8n](https://github.com/n8n-io/n8n) - Workflow automation tool for technical people.
 
+### Analytics
+
+- [Plausible Community Edition](https://github.com/plausible/analytics) - Privacy-focused web analytics with no cookies and fully compliant with GDPR.
+
 ## Media
 
 ### Media Players
