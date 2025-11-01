@@ -93,6 +93,7 @@
 ### Media Players
 
 - [IINA](https://github.com/iina/iina) - Modern media player for macOS.
+- [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player.
 
 ### Photo Management
 
