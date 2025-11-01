@@ -65,6 +65,7 @@
 - [netcat](https://nc110.sourceforge.io/) - Networking utility for reading and writing network connections.
 - [socat](http://www.dest-unreach.org/socat/) - Multipurpose relay for bidirectional data transfer.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - Cross-platform file change monitor.
+- [usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing USB devices over the network, especially useful for WSL2.
 
 ### Network Tools
 
