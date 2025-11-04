@@ -20,6 +20,7 @@
 ### File Sharing
 
 - [PairDrop](https://github.com/schlagmichdoch/PairDrop) - Local file sharing in your browser, inspired by Apple's AirDrop.
+- [copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated uploads and folder upload support.
 
 ### System Monitoring
 
