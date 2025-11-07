@@ -101,6 +101,11 @@
 
 - [Shotcut](https://github.com/mltframework/shotcut) - Free, open source, cross-platform video editor.
 
+### Image Editing
+
+- [GIMP](https://github.com/GNOME/gimp) - Free and open source image editor.
+- [Krita](https://github.com/KDE/krita) - Professional free and open source digital painting application.
+
 ### Photo Management
 
 - [PhotoPrism](https://github.com/photoprism/photoprism) - AI-powered photo management application with face recognition and automatic tagging.
