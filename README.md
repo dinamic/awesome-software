@@ -97,6 +97,10 @@
 - [IINA](https://github.com/iina/iina) - Modern media player for macOS.
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player.
 
+### Video Editing
+
+- [Shotcut](https://github.com/mltframework/shotcut) - Free, open source, cross-platform video editor.
+
 ### Photo Management
 
 - [PhotoPrism](https://github.com/photoprism/photoprism) - AI-powered photo management application with face recognition and automatic tagging.
