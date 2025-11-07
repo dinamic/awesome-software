@@ -88,6 +88,7 @@
 ### Analytics
 
 - [Plausible Community Edition](https://github.com/plausible/analytics) - Privacy-focused web analytics with no cookies and fully compliant with GDPR.
+- [Umami](https://github.com/umami-software/umami) - Simple, fast, privacy-focused alternative to Google Analytics.
 
 ## Media
 
