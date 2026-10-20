@@ -17,6 +17,8 @@
 
 - [Deskflow](https://github.com/deskflow/deskflow) - Share one mouse and keyboard between multiple computers across different operating systems.
 
+- [Glim](https://github.com/NeoPanic/Glim) - macOS file viewer for Markdown, source code, Git diffs, PDFs, and ebooks.
+
 ### File Sharing
 
 - [PairDrop](https://github.com/schlagmichdoch/PairDrop) - Local file sharing in your browser, inspired by Apple's AirDrop.
